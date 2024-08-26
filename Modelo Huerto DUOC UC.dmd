@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Modelo Huerto DUOC UC" id="53A6F2F2-7B44-DD1B-C504-3D25CC606311" version="3.5">
+<createdBy>gio</createdBy>
+<createdTime>2024-08-26 02:43:29 UTC</createdTime>
+<ownerDesignName>Modelo Huerto DUOC UC</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>53A6F2F2-7B44-DD1B-C504-3D25CC606311</designId>
+</OSDM_Design>
